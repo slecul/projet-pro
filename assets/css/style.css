@@ -1,0 +1,71 @@
+.headImg{
+text-align: center
+}
+
+.connection{
+   background-color: #53bab4;
+   justify-content: end;
+   
+}
+
+.connectionText{
+   text-align: center
+}
+
+.loginInput{
+   width: 50%;
+right:5px;
+}
+
+.flagLanguages{
+margin-left: 90%;
+   position: absolute;
+}
+
+.navbar{
+background-color: #53bab4;
+}
+
+.actus{
+   background-image: url("../img/fondactus.png");
+}
+
+.title{
+   text-align: center;
+}
+
+.contact{
+   background-image: url("../img/blueCat2.png");
+   margin-top: 5rem;
+}
+
+.contactElement{
+   min-height: 42rem;
+   text-align: center;
+}
+
+.contactAlign{
+margin-top: 21rem;
+}
+
+.contactElement:hover {
+   background-image: url("../img/cadreContact.png");
+   background-size: 100% ;
+   background-repeat: no-repeat;
+}
+
+.team{
+   background-image: url("../img/fondEquipe.png");
+   min-height: 40rem;
+   justify-content: center;
+}
+
+.titleTeam{
+   text-align: center;
+}
+
+.teamNames{
+   text-align: center;
+   font-weight: bold;
+   padding-right: 5rem;
+}
